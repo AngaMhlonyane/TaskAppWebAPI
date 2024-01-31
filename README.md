@@ -14,7 +14,7 @@ This is an ASP.NET Core Web API application for managing tasks and users. The ap
 
 1. Clone the repository:
 
-   ```bash
+   gh repo clone AngaMhlonyane/TaskAppWebAPI
    
 # API Endpoints
 
